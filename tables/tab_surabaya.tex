@@ -1,0 +1,17 @@
+\begin{tabular}{@{}llcccc@{}}
+\toprule
+$n$ & Estimator & $h^*$ & over-design & unsafe & days/yr\\
+\midrule
+20,000 & MC & $4.72\pm0.30$ & 1,420 & 0.07 & 0.054\\
+20,000 & Boosted CV & $4.55\pm0.18$ & 816 & 0.06 & 0.068\\
+\addlinespace[1pt]
+100,000 & MC & $4.51\pm0.12$ & 675 & 0.03 & 0.071\\
+100,000 & Boosted CV & $4.45\pm0.07$ & 459 & 0.03 & 0.078\\
+\addlinespace[1pt]
+500,000 & MC & $4.41\pm0.05$ & 330 & 0.01 & 0.084\\
+500,000 & Boosted CV & $4.39\pm0.03$ & 240 & 0.01 & 0.088\\
+\midrule
+-- & Gaussian model & $3.46$ & -3,141 & 1.00 & 0.543\\
+-- & Exact requirement & $4.32$ & 0 & 0.00 & 0.100\\
+\bottomrule
+\end{tabular}

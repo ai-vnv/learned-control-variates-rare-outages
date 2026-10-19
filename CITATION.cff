@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Learned Control Variates for Rare Grid-Outage Estimation at Electric Vehicle Charging Stations"
+authors:
+  - family-names: Iyanda
+    given-names: Sulyman
+    affiliation: King Fahd University of Petroleum and Minerals
+  - family-names: Arief
+    given-names: Mansur M.
+    affiliation: King Fahd University of Petroleum and Minerals
+license: MIT
+repository-code: "https://github.com/ai-vnv/learned-control-variates-rare-outages"
+preferred-citation:
+  type: conference-paper
+  title: "Learned Control Variates for Rare Grid-Outage Estimation at Electric Vehicle Charging Stations"
+  authors:
+    - family-names: Iyanda
+      given-names: Sulyman
+    - family-names: Arief
+      given-names: Mansur M.
+  collection-title: "10th International Conference on Smart Grid and Smart Cities (ICSGSC 2026)"
+  year: 2026

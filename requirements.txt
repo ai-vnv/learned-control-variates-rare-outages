@@ -1,0 +1,8 @@
+# Versions used to produce the stored results in results/ (Python 3.13).
+# Other recent versions work; scikit-learn changes can move the boosted-tree numbers in the third decimal.
+numpy==2.5.3
+scipy==1.18.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+pillow==12.3.0
+pytest==9.1.1
